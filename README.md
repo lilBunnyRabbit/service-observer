@@ -1,5 +1,8 @@
 # Service Observer
 
+[![npm version](https://img.shields.io/npm/v/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer)
+[![npm downloads](https://img.shields.io/npm/dt/@lilbunnyrabbit/service-observer.svg)](https://www.npmjs.com/package/@lilbunnyrabbit/service-observer)
+
 Service Observer is an npm library that provides a convenient way to observe and react to events within a service or application. It allows you to define and listen for custom events, making it easier to manage communication and coordination between different components of your codebase.
 
 ## Installation
@@ -111,3 +114,9 @@ const sum2 = service.sumArray.observe({
 ## Conclusion
 
 The Service Observer library provides a flexible and straightforward way to implement event-based communication within your services or applications. By allowing you to define and observe custom events, it simplifies the coordination and interaction between different parts of your codebase.
+
+## License
+
+MIT © Andraž Mesarič-Sirec
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lilBunnyRabbit)
