@@ -2,6 +2,7 @@ node_modules/
 src/
 tests/
 .github/
+examples/
 
 .gitignore
 .npmignore
