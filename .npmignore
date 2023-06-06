@@ -9,3 +9,4 @@ examples/
 .prettierrc
 jest.config.js
 tsconfig.json
+lib/*.tsbuildinfo
